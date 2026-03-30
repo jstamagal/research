@@ -1,0 +1,300 @@
+{
+  "summary": {
+    "total": 32,
+    "verified": 32,
+    "suspicious": 0,
+    "hallucinated": 0,
+    "skipped": 0,
+    "integrity_score": 1.0
+  },
+  "results": [
+    {
+      "cite_key": "khurana2022natural",
+      "title": "Natural language processing: state of the art, current trends and challenges",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Natural language processing: state of the art, current trends and challenges'",
+      "relevance_score": 0.18
+    },
+    {
+      "cite_key": "blasi2022overreliance",
+      "title": "Over-reliance on English hinders cognitive science",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Over-reliance on English hinders cognitive science'",
+      "relevance_score": 0.28
+    },
+    {
+      "cite_key": "cenoz2020teaching",
+      "title": "Teaching English through pedagogical translanguaging",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Teaching English through pedagogical translanguaging'",
+      "relevance_score": 0.22
+    },
+    {
+      "cite_key": "galloway2020internationalisation",
+      "title": "The \u2018internationalisation\u2019, or \u2018Englishisation\u2019, of higher education in East Asia",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'The \u2018internationalisation\u2019, or \u2018Englishisation\u2019, of higher education in East Asia'",
+      "relevance_score": 0.1
+    },
+    {
+      "cite_key": "conneau2020emerging",
+      "title": "Emerging Cross-lingual Structure in Pretrained Language Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Emerging Cross-lingual Structure in Pretrained Language Models'",
+      "relevance_score": 0.42
+    },
+    {
+      "cite_key": "bialystok2022bilingualism",
+      "title": "How does bilingualism modify cognitive function? Attention to the mechanism",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'How does bilingualism modify cognitive function? Attention to the mechanism'",
+      "relevance_score": 0.14
+    },
+    {
+      "cite_key": "gorter2020teachers",
+      "title": "Teachers\u2019 beliefs about multilingualism in a course on translanguaging",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Teachers\u2019 beliefs about multilingualism in a course on translanguaging'",
+      "relevance_score": 0.16
+    },
+    {
+      "cite_key": "wei2023transformative",
+      "title": "Transformative pedagogy for inclusion and social justice through translanguaging, co-learning, and transpositioning",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Transformative pedagogy for inclusion and social justice through translanguaging, co-learning, and transpositioning'",
+      "relevance_score": 0.14
+    },
+    {
+      "cite_key": "ware2020metaanalysis",
+      "title": "Meta-Analysis Reveals a Bilingual Advantage That Is Dependent on Task and Age",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Meta-Analysis Reveals a Bilingual Advantage That Is Dependent on Task and Age'",
+      "relevance_score": 0.12
+    },
+    {
+      "cite_key": "kitayama2022varieties",
+      "title": "Varieties of interdependence and the emergence of the Modern West: Toward the globalizing of psychology.",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Varieties of interdependence and the emergence of the Modern West: Toward the globalizing of psychology.'",
+      "relevance_score": 0.45
+    },
+    {
+      "cite_key": "leivada2020phantomlike",
+      "title": "On the phantom-like appearance of bilingualism effects on neurocognition: (How) should we proceed?",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'On the phantom-like appearance of bilingualism effects on neurocognition: (How) should we proceed?'",
+      "relevance_score": 0.1
+    },
+    {
+      "cite_key": "titone2022rethinking",
+      "title": "Rethinking multilingual experience through a Systems Framework of Bilingualism",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Rethinking multilingual experience through a Systems Framework of Bilingualism'",
+      "relevance_score": 0.12
+    },
+    {
+      "cite_key": "qin2020cosdaml",
+      "title": "CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation for Zero-Shot Cross-Lingual NLP",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'CoSDA-ML: Multi-Lingual Code-Switching Data Augmentation  for Zero-Shot Cross-Lingual NLP'",
+      "relevance_score": 0.68
+    },
+    {
+      "cite_key": "badanta2022confucianism",
+      "title": "How Does Confucianism Influence Health Behaviors, Health Outcomes and Medical Decisions? A Scoping Review",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'How Does Confucianism Influence Health Behaviors, Health Outcomes and Medical Decisions? A Scoping Review'",
+      "relevance_score": 0.55
+    },
+    {
+      "cite_key": "yuan2022confucian",
+      "title": "Confucian Virtue Ethics and Ethical Leadership in Modern China",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Confucian Virtue Ethics and Ethical Leadership in Modern China'",
+      "relevance_score": 0.62
+    },
+    {
+      "cite_key": "li2021crosscultural",
+      "title": "A Cross-Cultural Study of Filial Piety and Palliative Care Knowledge: Moderating Effect of Culture and Universality of Filial Piety",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'A Cross-Cultural Study of Filial Piety and Palliative Care Knowledge: Moderating Effect of Culture and Universality of Filial Piety'",
+      "relevance_score": 0.74
+    },
+    {
+      "cite_key": "ananthakrishnan2023hear",
+      "title": "I Hear You: Does Quality Improve with Customer Voice?",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'I Hear You: Does Quality Improve with Customer Voice?'",
+      "relevance_score": 0.34
+    },
+    {
+      "cite_key": "pilnick2022reconsidering",
+      "title": "Reconsidering patient\u2010centred care: Authority, expertise and abandonment",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Reconsidering patient\u2010centred care: Authority, expertise and abandonment'",
+      "relevance_score": 0.53
+    },
+    {
+      "cite_key": "perosanz2020narrative",
+      "title": "Narrative Voice Matters! Improving Smoking Prevention with Testimonial Messages through Identification and Cognitive Processes",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Narrative Voice Matters! Improving Smoking Prevention with Testimonial Messages through Identification and Cognitive Processes'",
+      "relevance_score": 0.4
+    },
+    {
+      "cite_key": "krishnan2021multilingual",
+      "title": "Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling'",
+      "relevance_score": 0.66
+    },
+    {
+      "cite_key": "lee2020modeling",
+      "title": "Modeling Code-Switch Languages Using Bilingual Parallel Corpus",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Modeling Code-Switch Languages Using Bilingual Parallel Corpus'",
+      "relevance_score": 0.71
+    },
+    {
+      "cite_key": "munaro2024your",
+      "title": "Does your style engage? Linguistic styles of influencers and digital consumer engagement on YouTube",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Does your style engage? Linguistic styles of influencers and digital consumer engagement on YouTube'",
+      "relevance_score": 0.26
+    },
+    {
+      "cite_key": "weller2022endtoend",
+      "title": "End-to-End Speech Translation for Code Switched Speech",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'End-to-End Speech Translation for Code Switched Speech'",
+      "relevance_score": 0.54
+    },
+    {
+      "cite_key": "zhang2023multilingual",
+      "title": "Multilingual Large Language Models Are Not (Yet) Code-Switchers",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Multilingual Large Language Models Are Not (Yet) Code-Switchers'",
+      "relevance_score": 0.91
+    },
+    {
+      "cite_key": "tragantzopoulou2024alone",
+      "title": "\u2018You Are Not Alone, We\u2019ve Got You\u2019: Power Plays, Devotion, and Punishment on Healthy Eating and Pro-Eating Disorder Websites",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: '\u2018You Are Not Alone, We\u2019ve Got You\u2019: Power Plays, Devotion, and Punishment on Healthy Eating and Pro-Eating Disorder Websites'",
+      "relevance_score": 0.58
+    },
+    {
+      "cite_key": "liu2023nudging",
+      "title": "Nudging Patient Choice: Reducing No-Shows Using Waits Framing Messaging",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Nudging Patient Choice: Reducing No-Shows Using Waits Framing Messaging'",
+      "relevance_score": 0.36
+    },
+    {
+      "cite_key": "tang2022cultural",
+      "title": "Cultural violence against Chinese single women in contemporary China: an in-depth analysis of three key societal pressures used to compel unmarried Chinese women to marry- devaluation, sympathy, and shame",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Cultural violence against Chinese single women in contemporary China: an in-depth analysis of three key societal pressures used to compel unmarried Chinese women to marry-\u00a0devaluation, sympathy, and shame'",
+      "relevance_score": 0.78
+    },
+    {
+      "cite_key": "tiffany2020gainloss",
+      "title": "Gain-Loss Framing: Comparing the Push Notification Message to Increase Purchase Intention in e-Marketplace Mobile Application",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Gain-Loss Framing: Comparing the Push Notification Message to Increase Purchase Intention in e-Marketplace Mobile Application'",
+      "relevance_score": 0.33
+    },
+    {
+      "cite_key": "chan2024confucian",
+      "title": "How Confucian Values Shape the Moral Boundaries of Family Caregiving",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'How Confucian Values Shape the Moral Boundaries of Family Caregiving'",
+      "relevance_score": 0.6
+    },
+    {
+      "cite_key": "kar2023proceedings",
+      "title": "Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching'",
+      "relevance_score": 0.72
+    },
+    {
+      "cite_key": "wang2024tristage",
+      "title": "Tri-stage training with language-specific encoder and bilingual acoustic learner for code-switching speech recognition",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Tri-stage training with language-specific encoder and bilingual acoustic learner for code-switching speech recognition'",
+      "relevance_score": 0.12
+    },
+    {
+      "cite_key": "foroutan2023breaking",
+      "title": "Breaking the Language Barrier: Improving Cross-Lingual Reasoning with Structured Self-Attention",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Breaking the Language Barrier: Improving Cross-Lingual Reasoning with Structured Self-Attention'",
+      "relevance_score": 0.28
+    }
+  ]
+}
