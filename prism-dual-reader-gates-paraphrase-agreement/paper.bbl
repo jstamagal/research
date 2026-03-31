@@ -1,0 +1,272 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bubeck et~al.(2023)Bubeck, Chandrasekaran, Eldan, Gehrke, Horvitz,
+  Kamar, Lee, Lee, Li, Lundberg, Nori, Palangi, Ribeiro, and
+  Zhang]{bubeck2023sparks}
+Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, Johannes Gehrke, Eric
+  Horvitz, Ece Kamar, Peter Lee, Yin~Tat Lee, Yuanzhi Li, Scott Lundberg,
+  Harsha Nori, Hamid Palangi, Marco~Túlio Ribeiro, and Yi~Zhang.
+\newblock Sparks of artificial general intelligence: Early experiments with
+  gpt-4.
+\newblock \emph{arXiv (Cornell University)}, 2023.
+\newblock \doi{10.48550/arxiv.2303.12712}.
+\newblock URL \url{https://doi.org/10.48550/arxiv.2303.12712}.
+
+\bibitem[Cao et~al.(2023)Cao, Li, Liu, Yan, Dai, Yu, and
+  Sun]{cao2023comprehensive}
+Yihan Cao, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip~S. Yu, and
+  Lichao Sun.
+\newblock A comprehensive survey of ai-generated content (aigc): A history of
+  generative ai from gan to chatgpt.
+\newblock \emph{arXiv (Cornell University)}, 2023.
+\newblock \doi{10.48550/arxiv.2303.04226}.
+\newblock URL \url{https://doi.org/10.48550/arxiv.2303.04226}.
+
+\bibitem[Cao et~al.(2024)Cao, Yamada, Teufel, and
+  Tokunaga]{cao2024comprehensive}
+Zhihan Cao, Hiroaki Yamada, Simone Teufel, and Takenobu Tokunaga.
+\newblock A comprehensive evaluation of semantic relation knowledge of
+  pretrained language models and humans.
+\newblock \emph{arXiv preprint arXiv:2412.01131}, 2024.
+\newblock \doi{10.1007/s10579-025-09858-9}.
+\newblock URL \url{https://arxiv.org/abs/2412.01131}.
+
+\bibitem[Chung et~al.(2022)Chung, Hou, Longpre, Zoph, Tay, Fedus, Li, Wang,
+  Dehghani, Brahma, Webson, Gu, Dai, Süzgün, Chen, Chowdhery, Castro-Ros,
+  Pellat, Robinson, Valter, Narang, Mishra, Yu, Zhao, Huang, Dai, Yu, Petrov,
+  H., Dean, Devlin, Roberts, Zhou, Le, and Lee]{chung2022scaling}
+Hyung~Won Chung, Le~Hou, Shayne Longpre, Barret Zoph, Yi~Tay, William Fedus,
+  Eric Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson,
+  Shixiang Gu, Zhuyun Dai, Mirac Süzgün, Xinyun Chen, Aakanksha Chowdhery,
+  Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang,
+  Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew~M. Dai, Hongkun
+  Yu, Slav Petrov, Ed~H., Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou,
+  Quoc~V. Le, and Jason Lee.
+\newblock Scaling instruction-finetuned language models.
+\newblock \emph{arXiv (Cornell University)}, 2022.
+\newblock \doi{10.48550/arxiv.2210.11416}.
+\newblock URL \url{https://doi.org/10.48550/arxiv.2210.11416}.
+
+\bibitem[Cui et~al.(2023)Cui, Zhang, Chen, Zhang, Liu, Wang, and
+  Liu]{cui2023harmlessness}
+Shiyao Cui, Zhenyu Zhang, Yilong Chen, Wenyuan Zhang, Tianyun Liu, Siqi Wang,
+  and Tingwen Liu.
+\newblock Fft: Towards harmlessness evaluation and analysis for llms with
+  factuality, fairness, toxicity.
+\newblock \emph{arXiv preprint arXiv:2311.18580}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2311.18580}.
+
+\bibitem[Dwivedi et~al.(2023)Dwivedi, Kshetri, Hughes, Slade, Jeyaraj, Kar,
+  Baabdullah, Koohang, Raghavan, Ahuja, Albanna, Albashrawi, Al-Busaidi,
+  Balakrishnan, Barlette, Basu, Bose, Brooks, Buhalis, Carter, Chowdhury,
+  Crick, Cunningham, Davies, Davison, Dé, Dennehy, Duan, Dubey, Dwivedi,
+  Edwards, Flavián, Gauld, Grover, Hu, Janssen, Jones, Junglas, Khorana,
+  Kraus, Larsen, Latreille, Laumer, Malik, Mardani, Mariani, Mithas, Mogaji,
+  Nord, O’Connor, Okumus, Pagani, Pandey, Papagiannidis, Pappas, Pathak,
+  Pries‐Heje, Raman, Rana, Rehm, Ribeiro‐Navarrete, Richter, Rowe, Sarker,
+  Stahl, Tiwari, van~der Aalst, Venkatesh, Viglia, Wade, Walton, Wirtz, and
+  Wright]{dwivedi2023opinion}
+Yogesh~K. Dwivedi, Nir Kshetri, Laurie Hughes, Emma Slade, Anand Jeyaraj,
+  Arpan~Kumar Kar, Abdullah~M. Baabdullah, Alex Koohang, Vishnupriya Raghavan,
+  Manju Ahuja, Hanaa Albanna, Mousa~Ahmad Albashrawi, Adil~S. Al-Busaidi,
+  Janarthanan Balakrishnan, Yves Barlette, Sriparna Basu, Indranil Bose,
+  Laurence Brooks, Dimitrios Buhalis, Lemuria Carter, Soumyadeb Chowdhury, Tom
+  Crick, Scott~W. Cunningham, Gareth~H. Davies, Robert~M. Davison, Rahul Dé,
+  Denis Dennehy, Yanqing Duan, Rameshwar Dubey, Rohita Dwivedi, John~S.
+  Edwards, Carlos Flavián, Robin Gauld, Varun Grover, Mei‐Chih Hu, Marijn
+  Janssen, Paul Jones, Iris Junglas, Sangeeta Khorana, Sascha Kraus, Kai~R.
+  Larsen, Paul Latreille, Sven Laumer, Tegwen Malik, Abbas Mardani, Marcello
+  Mariani, Sunil Mithas, Emmanuel Mogaji, Jeretta~Horn Nord, Siobhán
+  O’Connor, Fevzi Okumus, Margherita Pagani, Neeraj Pandey, Savvas
+  Papagiannidis, Ilias~O. Pappas, Nishith Pathak, Jan Pries‐Heje,
+  Ramakrishnan Raman, Nripendra~P. Rana, Sven‐Volker Rehm, Samuel
+  Ribeiro‐Navarrete, Alexander Richter, Frantz Rowe, Suprateek Sarker,
+  Bernd~Carsten Stahl, Manoj Tiwari, Wil van~der Aalst, Viswanath Venkatesh,
+  Giampaolo Viglia, Michael Wade, Paul Walton, Jochen Wirtz, and Ryan Wright.
+\newblock Opinion paper: “so what if chatgpt wrote it?” multidisciplinary
+  perspectives on opportunities, challenges and implications of generative
+  conversational ai for research, practice and policy.
+\newblock \emph{International Journal of Information Management}, 2023.
+\newblock \doi{10.1016/j.ijinfomgt.2023.102642}.
+\newblock URL \url{https://doi.org/10.1016/j.ijinfomgt.2023.102642}.
+
+\bibitem[Elder et~al.(2025)Elder, Duesterwald, and
+  Muthusamy]{elder2025boosting}
+Ben Elder, Evelyn Duesterwald, and Vinod Muthusamy.
+\newblock Boosting instruction following at scale.
+\newblock \emph{arXiv preprint arXiv:2510.14842}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2510.14842}.
+
+\bibitem[Guo et~al.(2023)Guo, Zhang, Wang, Jiang, Nie, Ding, Yue, and
+  Wu]{guo2023close}
+Biyang Guo, Xin Zhang, Ziyuan Wang, Minqi Jiang, Jinran Nie, Yuxuan Ding,
+  Jianwei Yue, and Yupeng Wu.
+\newblock How close is chatgpt to human experts? comparison corpus, evaluation,
+  and detection.
+\newblock \emph{arXiv preprint arXiv:2301.07597}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2301.07597}.
+
+\bibitem[Hewitt et~al.(2024)Hewitt, Liu, Liang, and
+  Manning]{hewitt2024instruction}
+John Hewitt, Nelson~F. Liu, Percy Liang, and Christopher~D. Manning.
+\newblock Instruction following without instruction tuning.
+\newblock \emph{arXiv preprint arXiv:2409.14254}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2409.14254}.
+
+\bibitem[Ivgi et~al.(2024)Ivgi, Yoran, Berant, and Geva]{ivgi2024loops}
+Maor Ivgi, Ori Yoran, Jonathan Berant, and Mor Geva.
+\newblock From loops to oops: Fallback behaviors of language models under
+  uncertainty.
+\newblock \emph{arXiv preprint arXiv:2407.06071}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2407.06071}.
+
+\bibitem[Khurana et~al.(2022)Khurana, Koli, Khatter, and
+  Singh]{khurana2022natural}
+Diksha Khurana, Aditya Koli, Kiran Khatter, and Sukhdev Singh.
+\newblock Natural language processing: state of the art, current trends and
+  challenges.
+\newblock \emph{Multimedia Tools and Applications}, 2022.
+\newblock \doi{10.1007/s11042-022-13428-4}.
+\newblock URL \url{https://doi.org/10.1007/s11042-022-13428-4}.
+
+\bibitem[Labrak et~al.(2023)Labrak, Rouvier, and Dufour]{labrak2023zeroshot}
+Yanis Labrak, Mickael Rouvier, and Richard Dufour.
+\newblock A zero-shot and few-shot study of instruction-finetuned large
+  language models applied to clinical and biomedical tasks.
+\newblock \emph{arXiv preprint arXiv:2307.12114}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2307.12114}.
+
+\bibitem[Li et~al.(2025)Li, Wang, Zhang, Xiao, Hu, Wang, and Li]{li2025unieval}
+Yi~Li, Haonan Wang, Qixiang Zhang, Boyu Xiao, Chenchang Hu, Hualiang Wang, and
+  Xiaomeng Li.
+\newblock Unieval: Unified holistic evaluation for unified multimodal
+  understanding and generation.
+\newblock \emph{arXiv preprint arXiv:2505.10483}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2505.10483}.
+
+\bibitem[Liu et~al.(2022)Liu, Yuan, Fu, Jiang, Hayashi, and
+  Neubig]{liu2022pretrain}
+Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and
+  Graham Neubig.
+\newblock Pre-train, prompt, and predict: A systematic survey of prompting
+  methods in natural language processing.
+\newblock \emph{ACM Computing Surveys}, 2022.
+\newblock \doi{10.1145/3560815}.
+\newblock URL \url{https://doi.org/10.1145/3560815}.
+
+\bibitem[Liu et~al.(2024)Liu, Shi, Fabbri, Zhao, Wang, Wu, Joty, and
+  Cohan]{liu2024reife}
+Yixin Liu, Kejian Shi, Alexander~R. Fabbri, Yilun Zhao, Peifeng Wang,
+  Chien-Sheng Wu, Shafiq Joty, and Arman Cohan.
+\newblock Reife: Re-evaluating instruction-following evaluation.
+\newblock \emph{arXiv preprint arXiv:2410.07069}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2410.07069}.
+
+\bibitem[Marco et~al.(2025)Marco, Gonzalo, and Fresno]{marco2025reader}
+Guillermo Marco, Julio Gonzalo, and Víctor Fresno.
+\newblock The reader is the metric: How textual features and reader profiles
+  explain conflicting evaluations of ai creative writing.
+\newblock \emph{arXiv preprint arXiv:2506.03310}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2506.03310}.
+
+\bibitem[OpenAI and Wijayagunawardhana(2023)]{openai2023technical}
+OpenAI and W.~A. Hasindu~N. Wijayagunawardhana.
+\newblock Gpt-4 technical report.
+\newblock \emph{arXiv (Cornell University)}, 2023.
+\newblock \doi{10.4230/lipics.cosit.2024.11}.
+\newblock URL \url{https://doi.org/10.4230/lipics.cosit.2024.11}.
+
+\bibitem[Richter-Pechanski et~al.(2024)Richter-Pechanski, Wiesenbach, Schwab,
+  Kiriakou, Geis, Dieterich, and Frank]{richterpechanski2024clinical}
+Phillip Richter-Pechanski, Philipp Wiesenbach, Dominic~M. Schwab, Christina
+  Kiriakou, Nicolas Geis, Christoph Dieterich, and Anette Frank.
+\newblock Clinical information extraction for low-resource languages with
+  few-shot learning using pre-trained language models and prompting.
+\newblock \emph{arXiv preprint arXiv:2403.13369}, 2024.
+\newblock \doi{10.1017/nlp.2024.52}.
+\newblock URL \url{https://arxiv.org/abs/2403.13369}.
+
+\bibitem[Snoswell et~al.(2023)Snoswell, Nelson, Xue, Salim, Suzor, and
+  Burgess]{snoswell2023measuring}
+Aaron~J. Snoswell, Lucinda Nelson, Hao Xue, Flora~D. Salim, Nicolas Suzor, and
+  Jean Burgess.
+\newblock Measuring misogyny in natural language generation: Preliminary
+  results from a case study on two reddit communities.
+\newblock \emph{arXiv preprint arXiv:2312.03330}, 2023.
+\newblock URL \url{https://arxiv.org/abs/2312.03330}.
+
+\bibitem[Sun et~al.(2024)Sun, Wan, Ueda, Yahata, Cheng, Chu, and
+  Kurohashi]{sun2024rapidly}
+Yikun Sun, Zhen Wan, Nobuhiro Ueda, Sakiko Yahata, Fei Cheng, Chenhui Chu, and
+  Sadao Kurohashi.
+\newblock Rapidly developing high-quality instruction data and evaluation
+  benchmark for large language models with minimal human effort: A case study
+  on japanese.
+\newblock \emph{arXiv preprint arXiv:2403.03690}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2403.03690}.
+
+\bibitem[Thakur et~al.(2021)Thakur, Reimers, Rücklé, Srivastava, and
+  Gurevych]{thakur2021beir}
+Nandan Thakur, Nils Reimers, Andreas Rücklé, Abhishek Srivastava, and Iryna
+  Gurevych.
+\newblock Beir: A heterogenous benchmark for zero-shot evaluation of
+  information retrieval models.
+\newblock \emph{arXiv preprint arXiv:2104.08663}, 2021.
+\newblock URL \url{https://arxiv.org/abs/2104.08663}.
+
+\bibitem[Wang et~al.(2024)Wang, Ma, Feng, Zhang, Yang, Zhang, Chen, Tang, Chen,
+  Lin, Zhao, Wei, and Wen]{wang2024survey}
+Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan
+  Chen, Jiakai Tang, Xu~Chen, Yankai Lin, Wayne~Xin Zhao, Zhewei Wei, and
+  Ji-Rong Wen.
+\newblock A survey on large language model based autonomous agents.
+\newblock \emph{Frontiers of Computer Science}, 2024.
+\newblock \doi{10.1007/s11704-024-40231-1}.
+\newblock URL \url{https://doi.org/10.1007/s11704-024-40231-1}.
+
+\bibitem[Yeo and Chen(2020)]{yeo2020defining}
+Catherine Yeo and Alyssa Chen.
+\newblock Defining and evaluating fair natural language generation.
+\newblock \emph{arXiv preprint arXiv:2008.01548}, 2020.
+\newblock URL \url{https://arxiv.org/abs/2008.01548}.
+
+\bibitem[Zhang et~al.(2024)Zhang, Tian, Huang, Qiao, and
+  Liu]{zhang2024evaluation}
+Fan Zhang, Shulin Tian, Ziqi Huang, Yu~Qiao, and Ziwei Liu.
+\newblock Evaluation agent: Efficient and promptable evaluation framework for
+  visual generative models.
+\newblock \emph{arXiv preprint arXiv:2412.09645}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2412.09645}.
+
+\bibitem[Zhao et~al.(2023)Zhao, Zhou, Li, Tang, Wang, Hou, Min, Zhang, Zhang,
+  Dong, Du, Chen, Chen, Chen, Jiang, Ren, Li, Tang, Liu, Liu, Nie, and
+  Wen]{zhao2023survey}
+Wayne~Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou,
+  Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Yang Chen,
+  Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang,
+  Zikang Liu, Peiyu Liu, Jian‐Yun Nie, and Ji-Rong Wen.
+\newblock A survey of large language models.
+\newblock \emph{ArXiv.org}, 2023.
+\newblock \doi{10.48550/arxiv.2303.18223}.
+\newblock URL \url{https://doi.org/10.48550/arxiv.2303.18223}.
+
+\bibitem[Zhou et~al.(2025)Zhou, Xu, Wang, Xiong, and Joty]{zhou2025evaluating}
+Yilun Zhou, Austin Xu, Peifeng Wang, Caiming Xiong, and Shafiq Joty.
+\newblock Evaluating judges as evaluators: The jetts benchmark of llm-as-judges
+  as test-time scaling evaluators.
+\newblock \emph{arXiv preprint arXiv:2504.15253}, 2025.
+\newblock URL \url{https://arxiv.org/abs/2504.15253}.
+
+\bibitem[Zhu et~al.(2026)Zhu, Hua, Miao, and Zhao]{zhu2026benchmark}
+Longyuan Zhu, Hairan Hua, Linlin Miao, and Bing Zhao.
+\newblock Benchmark health index: A systematic framework for benchmarking the
+  benchmarks of llms.
+\newblock \emph{arXiv preprint arXiv:2602.11674}, 2026.
+\newblock URL \url{https://arxiv.org/abs/2602.11674}.
+
+\end{thebibliography}

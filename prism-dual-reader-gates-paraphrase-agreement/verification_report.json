@@ -1,0 +1,255 @@
+{
+  "summary": {
+    "total": 27,
+    "verified": 24,
+    "suspicious": 0,
+    "hallucinated": 3,
+    "skipped": 0,
+    "integrity_score": 0.889
+  },
+  "results": [
+    {
+      "cite_key": "liu2022pretrain",
+      "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing'",
+      "relevance_score": 0.43
+    },
+    {
+      "cite_key": "dwivedi2023opinion",
+      "title": "Opinion Paper: \u201cSo what if ChatGPT wrote it?\u201d Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Opinion Paper: \u201cSo what if ChatGPT wrote it?\u201d Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy'",
+      "relevance_score": 0.09
+    },
+    {
+      "cite_key": "openai2023technical",
+      "title": "GPT-4 Technical Report",
+      "status": "hallucinated",
+      "confidence": 0.9,
+      "method": "doi",
+      "details": "DOI 10.4230/lipics.cosit.2024.11 not found (HTTP 404)",
+      "relevance_score": 0.55
+    },
+    {
+      "cite_key": "khurana2022natural",
+      "title": "Natural language processing: state of the art, current trends and challenges",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Natural language processing: state of the art, current trends and challenges'",
+      "relevance_score": 0.08
+    },
+    {
+      "cite_key": "bubeck2023sparks",
+      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via DataCite: 'Sparks of Artificial General Intelligence: Early experiments with GPT-4'",
+      "relevance_score": 0.19
+    },
+    {
+      "cite_key": "zhao2023survey",
+      "title": "A Survey of Large Language Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via DataCite: 'A Survey of Large Language Models'",
+      "relevance_score": 0.25
+    },
+    {
+      "cite_key": "chung2022scaling",
+      "title": "Scaling Instruction-Finetuned Language Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via DataCite: 'Scaling Instruction-Finetuned Language Models'",
+      "relevance_score": 0.46
+    },
+    {
+      "cite_key": "wang2024survey",
+      "title": "A survey on large language model based autonomous agents",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'A survey on large language model based autonomous agents'",
+      "relevance_score": 0.18
+    },
+    {
+      "cite_key": "cao2023comprehensive",
+      "title": "A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via DataCite: 'A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT'",
+      "relevance_score": 0.06
+    },
+    {
+      "cite_key": "zhu2026benchmark",
+      "title": "Benchmark Health Index: A Systematic Framework for Benchmarking the Benchmarks of LLMs",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Benchmark Health Index: A Systematic Framework for Benchmarking the Benchmarks of LLMs'",
+      "relevance_score": 0.34
+    },
+    {
+      "cite_key": "marco2025reader",
+      "title": "The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of AI Creative Writing",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of AI Creative Writing'",
+      "relevance_score": 0.74
+    },
+    {
+      "cite_key": "zhou2025evaluating",
+      "title": "Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators",
+      "status": "hallucinated",
+      "confidence": 0.7,
+      "method": "openalex",
+      "details": "No results found via OpenAlex",
+      "relevance_score": 0.9
+    },
+    {
+      "cite_key": "elder2025boosting",
+      "title": "Boosting Instruction Following at Scale",
+      "status": "hallucinated",
+      "confidence": 0.7,
+      "method": "openalex",
+      "details": "No results found via OpenAlex",
+      "relevance_score": 0.58
+    },
+    {
+      "cite_key": "li2025unieval",
+      "title": "UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation'",
+      "relevance_score": 0.76
+    },
+    {
+      "cite_key": "richterpechanski2024clinical",
+      "title": "Clinical information extraction for Low-resource languages with Few-shot learning using Pre-trained language models and Prompting",
+      "status": "verified",
+      "confidence": 0.875,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Clinical information extraction for lower-resource languages and domains with few-shot learning using pretrained language models and prompting'",
+      "relevance_score": 0.14
+    },
+    {
+      "cite_key": "cao2024comprehensive",
+      "title": "A Comprehensive Evaluation of Semantic Relation Knowledge of Pretrained Language Models and Humans",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'A comprehensive evaluation of semantic relation knowledge of pretrained language models and humans'",
+      "relevance_score": 0.11
+    },
+    {
+      "cite_key": "sun2024rapidly",
+      "title": "Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Rapidly Developing High-quality Instruction Data and Evaluation Benchmark for Large Language Models with Minimal Human Effort: A Case Study on Japanese'",
+      "relevance_score": 0.39
+    },
+    {
+      "cite_key": "zhang2024evaluation",
+      "title": "Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models'",
+      "relevance_score": 0.67
+    },
+    {
+      "cite_key": "liu2024reife",
+      "title": "ReIFE: Re-evaluating Instruction-Following Evaluation",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'ReIFE: Re-evaluating Instruction-Following Evaluation'",
+      "relevance_score": 0.87
+    },
+    {
+      "cite_key": "ivgi2024loops",
+      "title": "From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty'",
+      "relevance_score": 0.82
+    },
+    {
+      "cite_key": "hewitt2024instruction",
+      "title": "Instruction Following without Instruction Tuning",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Instruction Following without Instruction Tuning'",
+      "relevance_score": 0.48
+    },
+    {
+      "cite_key": "labrak2023zeroshot",
+      "title": "A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks'",
+      "relevance_score": 0.12
+    },
+    {
+      "cite_key": "snoswell2023measuring",
+      "title": "Measuring Misogyny in Natural Language Generation: Preliminary Results from a Case Study on two Reddit Communities",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Measuring Misogyny in Natural Language Generation: Preliminary Results from a Case Study on two Reddit Communities'",
+      "relevance_score": 0.27
+    },
+    {
+      "cite_key": "cui2023harmlessness",
+      "title": "FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity'",
+      "relevance_score": 0.88
+    },
+    {
+      "cite_key": "guo2023close",
+      "title": "How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection'",
+      "relevance_score": 0.29
+    },
+    {
+      "cite_key": "thakur2021beir",
+      "title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models'",
+      "relevance_score": 0.02
+    },
+    {
+      "cite_key": "yeo2020defining",
+      "title": "Defining and Evaluating Fair Natural Language Generation",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Defining and Evaluating Fair Natural Language Generation'",
+      "relevance_score": 0.41
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "summary": {
+    "total": 21,
+    "verified": 19,
+    "suspicious": 0,
+    "hallucinated": 2,
+    "skipped": 0,
+    "integrity_score": 0.905
+  },
+  "results": [
+    {
+      "cite_key": "liu2022pretrain",
+      "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing'",
+      "relevance_score": 0.65
+    },
+    {
+      "cite_key": "openai2023technical",
+      "title": "GPT-4 Technical Report",
+      "status": "hallucinated",
+      "confidence": 0.9,
+      "method": "doi",
+      "details": "DOI 10.4230/lipics.cosit.2024.11 not found (HTTP 404)",
+      "relevance_score": 0.85
+    },
+    {
+      "cite_key": "cheung2023reporting",
+      "title": "Reporting reliability, convergent and discriminant validity with structural equation modeling: A review and best-practice recommendations",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Reporting reliability, convergent and discriminant validity with structural equation modeling: A review and best-practice recommendations'",
+      "relevance_score": 0.35
+    },
+    {
+      "cite_key": "hagendorff2020ethics",
+      "title": "The Ethics of AI Ethics: An Evaluation of Guidelines",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'The Ethics of AI Ethics: An Evaluation of Guidelines'",
+      "relevance_score": 0.4
+    },
+    {
+      "cite_key": "bubeck2023sparks",
+      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via DataCite: 'Sparks of Artificial General Intelligence: Early experiments with GPT-4'",
+      "relevance_score": 0.75
+    },
+    {
+      "cite_key": "zhao2023survey",
+      "title": "A Survey of Large Language Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via DataCite: 'A Survey of Large Language Models'",
+      "relevance_score": 0.6
+    },
+    {
+      "cite_key": "chung2022scaling",
+      "title": "Scaling Instruction-Finetuned Language Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via DataCite: 'Scaling Instruction-Finetuned Language Models'",
+      "relevance_score": 0.6
+    },
+    {
+      "cite_key": "marco2025reader",
+      "title": "The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of AI Creative Writing",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'The Reader is the Metric: How Textual Features and Reader Profiles Explain Conflicting Evaluations of AI Creative Writing'",
+      "relevance_score": 0.92
+    },
+    {
+      "cite_key": "zhou2025evaluating",
+      "title": "Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators",
+      "status": "hallucinated",
+      "confidence": 0.7,
+      "method": "openalex",
+      "details": "No results found via OpenAlex",
+      "relevance_score": 0.9
+    },
+    {
+      "cite_key": "lu2025argus",
+      "title": "ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior'",
+      "relevance_score": 0.7
+    },
+    {
+      "cite_key": "zhang2024evaluation",
+      "title": "Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models'",
+      "relevance_score": 0.6
+    },
+    {
+      "cite_key": "liu2024reife",
+      "title": "ReIFE: Re-evaluating Instruction-Following Evaluation",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'ReIFE: Re-evaluating Instruction-Following Evaluation'",
+      "relevance_score": 0.88
+    },
+    {
+      "cite_key": "ivgi2024loops",
+      "title": "From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty'",
+      "relevance_score": 0.75
+    },
+    {
+      "cite_key": "remmerden2024deep",
+      "title": "Deep Multi-Objective Reinforcement Learning for Utility-Based Infrastructural Maintenance Optimization",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "doi",
+      "details": "Confirmed via CrossRef: 'Deep multi-objective reinforcement learning for utility-based infrastructural maintenance optimization'",
+      "relevance_score": 0.25
+    },
+    {
+      "cite_key": "cui2023harmlessness",
+      "title": "FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'FFT: Towards Harmlessness Evaluation and Analysis for LLMs with Factuality, Fairness, Toxicity'",
+      "relevance_score": 0.7
+    },
+    {
+      "cite_key": "hartman2023leximin",
+      "title": "Leximin Approximation: From Single-Objective to Multi-Objective",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Leximin Approximation: From Single-Objective to Multi-Objective'",
+      "relevance_score": 0.35
+    },
+    {
+      "cite_key": "giulianelli2022pragmatic",
+      "title": "Towards Pragmatic Production Strategies for Natural Language Generation Tasks",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Towards Pragmatic Production Strategies for Natural Language Generation Tasks'",
+      "relevance_score": 0.55
+    },
+    {
+      "cite_key": "petsiuk2022human",
+      "title": "Human Evaluation of Text-to-Image Models on a Multi-Task Benchmark",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Human Evaluation of Text-to-Image Models on a Multi-Task Benchmark'",
+      "relevance_score": 0.45
+    },
+    {
+      "cite_key": "nyberg2021estimating",
+      "title": "Estimating Subjective Crowd-Evaluations as an Additional Objective to Improve Natural Language Generation",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Estimating Subjective Crowd-Evaluations as an Additional Objective to Improve Natural Language Generation'",
+      "relevance_score": 0.82
+    },
+    {
+      "cite_key": "mitrevski2020momentumbased",
+      "title": "Momentum-based Gradient Methods in Multi-Objective Recommendation",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Momentum-based Gradient Methods in Multi-Objective Recommendation'",
+      "relevance_score": 0.25
+    },
+    {
+      "cite_key": "steinhoff2020empirical",
+      "title": "Empirical Study on the Benefits of Multiobjectivization for Solving Single-Objective Problems",
+      "status": "verified",
+      "confidence": 1.0,
+      "method": "openalex",
+      "details": "Confirmed via OpenAlex: 'Empirical Study on the Benefits of Multiobjectivization for Solving Single-Objective Problems'",
+      "relevance_score": 0.45
+    }
+  ]
+}
